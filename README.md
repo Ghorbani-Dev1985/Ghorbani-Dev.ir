@@ -11,7 +11,7 @@ const Ghorbani-Dev1985 = {
     name: "Mohammad Ghorbani",
     nickname: "Mohsen",
     birthDay: "26 Feb. 1985",
-    skills: ["Html" , "Css" , "TailwinsCss" , "EcmaScript" , "React.JS" , "Next.JS" , "TypeScript" ],
+    skills: ["Html" , "Css" , "TailwinsCss" , "EcmaScript" , "TypeScript", "Angular" , "RxJS" , "Angular Material" , "React.JS" , "Next.JS", Git],
     university: "BS Astane Tvu",
     hobbies: ["Coding" , "Aikido Sport" , "Waik"],
     quote: "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement. – Les Brown."
@@ -24,7 +24,10 @@ const Ghorbani-Dev1985 = {
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/%20-Angular%20Material-blue?style=for-the-badge&logo=angular)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ---
 
 <div align="center">
